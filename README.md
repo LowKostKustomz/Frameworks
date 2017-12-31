@@ -8,8 +8,6 @@
 
 [StatusAlertLink]: https://github.com/LowKostKustomz/StatusAlert
 
---
-
 ### [StatusAlert][StatusAlertLink]
 
 [![StatusAlert](https://assets.gitlab-static.net/ZEBSTER/FrameworksAssets/raw/master/StatusAlert/StatusAlertHeader.png)][StatusAlertLink]
