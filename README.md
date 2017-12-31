@@ -1,4 +1,4 @@
-#Frameworks
+# Frameworks
 
 [ActionsListLink]: https://github.com/LowKostKustomz/ActionsList
 
@@ -14,7 +14,7 @@
 
 [![StatusAlert](https://assets.gitlab-static.net/ZEBSTER/FrameworksAssets/raw/master/StatusAlert/StatusAlertHeader.png)][StatusAlertLink]
 
-#Author
+# Author
 
 ![Author ActionsList](https://assets.gitlab-static.net/ZEBSTER/FrameworksAssets/raw/master/ActionsList/ActionsListAuthor.png)
 
